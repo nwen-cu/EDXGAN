@@ -4,3 +4,8 @@
 /outputs
 /pretrain
 /data
+__pycache__
+old-test
+test_30
+
+*.out
