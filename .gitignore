@@ -8,4 +8,18 @@ __pycache__
 old-test
 test_30
 
+
 *.out
+
+# IDE files
+.cursor/
+
+# Error and log files
+*.err
+*.log
+
+# SLURM job files
+*.slurm
+
+# Editor/IDE config files
+pyrightconfig.json
